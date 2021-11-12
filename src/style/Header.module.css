@@ -1,0 +1,37 @@
+.header {
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-family: "Yaldevi-Regular", arial;
+    overflow: auto;
+    background-color: #fffafa;
+}
+
+.header p {
+    margin-left: 10px;
+    font-size: small;
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+}
+.button {
+    
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    padding: .5em 2em;
+    margin: 10px;
+    outline: none;
+    border-width: 2px 0;
+    border-style: solid none;
+    border-color: #d4b1ab #000 #fadadd;
+    border-radius: 10px;
+    background: linear-gradient(#d4b1ab, #e6d0cc) #e6d0cc;
+    transition: 0.2s;
+}
+    .button:hover {
+        background: linear-gradient(#d4b1ab, #e6d0cc) #d4b1ab
+    }
+    .button:active {
+        background: linear-gradient(#e6d0cc, #fadadd) #e6d0cc;
+    }

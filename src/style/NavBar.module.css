@@ -1,0 +1,67 @@
+
+.nav {
+    background-color: #c8a696;
+    overflow: auto;
+    font-family: "Yaldevi-Regular", arial;
+    font-size: 18px;
+    
+}
+
+    a:link {
+        float: right;
+        margin-bottom: 10px;
+        
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0px;
+        margin: 10px;
+        margin-top: 17px;
+    }
+
+    a {
+        display: block;
+        padding: 11px;
+        margin-left: 12px;
+        color: #000;
+        text-decoration: none;
+        border: solid;
+        border-width: 3px;
+        border-color: #805742;
+        border-radius: 10%;
+        background-color: #fff;
+    }
+
+        a:hover {
+            border-color: #805742;
+            background-color: #ebded8;
+            color: #000;
+            border-radius: 50%;
+        }
+.poloska {
+    width: auto;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e1ecf2;
+    border-bottom: 1px solid #fff;
+}
+.poloska img {
+    width:65px;
+    height:65px;
+    float: left;
+    padding: 0;
+    margin: 7px;
+} 
+
+.KotoPec{
+    font-size: 50px;
+    text-align: left;
+    position: absolute;
+    margin-left: 85px;
+    font-family: 'Calligraph', arial;
+    margin-top: -40px;
+}
+
+

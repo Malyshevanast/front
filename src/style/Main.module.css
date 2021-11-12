@@ -1,0 +1,39 @@
+.osnova h2 {
+    font-family: "Yaldevi-Regular";
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.blog1 {
+    width: 75%;
+    height: 250px;
+    background: #f4e8e1;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border: 4px double #434242;
+}
+
+.ser p{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Nautilus Pompilius", arial;
+}
+
+.textcols {
+    white-space: nowrap;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Yaldevi-Regular";
+}
+
+.textcols-item {
+    white-space: normal;
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+
+.textcols .textcols-item:first-child {
+    margin-right: 5%;
+}
