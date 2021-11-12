@@ -1,4 +1,7 @@
 .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     width: auto;
     margin: 0;
     padding: 0;
@@ -15,8 +18,7 @@
     font-size: 20px;
 }
 .button {
-    
-    display: inline-block;
+    float: right;
     color: #000;
     text-decoration: none;
     padding: .5em 2em;

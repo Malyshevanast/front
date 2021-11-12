@@ -1,9 +1,10 @@
 import { Link } from "react-router-dom"
 import styles from "../style/NavBar.module.css"
+import logo from '../img/loga.png'
 const NavBar = () => {
     return <>
         <div className={`${styles.poloska}`}>
-        <img src="/img/logo.png" />
+        <img src={logo} alt={"logo"}/>
             <div className={`${styles.KotoPec}`}>
                 <p>КотоПес</p>
             </div>
