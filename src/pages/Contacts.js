@@ -1,4 +1,4 @@
 const Contacts = () => {
-    return <>Home Page</>
+    return <>Контакты</>
 }
 export default Contacts

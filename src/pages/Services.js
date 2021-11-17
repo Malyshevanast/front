@@ -1,4 +1,4 @@
 const Services = () => {
-    return <>Home Page</>
+    return <>Услуги)</>
 }
 export default Services

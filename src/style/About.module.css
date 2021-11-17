@@ -1,0 +1,23 @@
+.blog5 {
+    width: 75%;
+    height: 720px;
+    background: #f4e8e1;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border: 4px double #434242;
+}
+
+    .blog5 h1 {
+        text-align: center;
+        font-size: 25px;
+        font-family: "Nautilus Pompilius";
+    }
+
+.osn_4 {
+    text-align: left;
+    font-size: 22px;
+    font-family: "Yaldevi-Regular";
+    margin: 20px;
+}

@@ -1,6 +1,7 @@
 import styles from "../style/Main.module.css"
 const Main = () => {
     return <>
+    <div className={`${styles.os_1}`}>
         <div className={`${styles.osnova}`}>
             <h2>Человек и его питомец: от сердца к сердцу!</h2>
         </div>
@@ -22,6 +23,7 @@ const Main = () => {
                 </div>
             </div>
         </div>
+    </div>
     </>
 }
 export default Main
